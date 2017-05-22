@@ -1,1 +1,1 @@
-web: python TTSSBot.py
+web: python main.py
